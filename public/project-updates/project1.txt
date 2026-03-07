@@ -1,0 +1,7 @@
+Project: AI Portfolio Assistant
+
+Description:
+Created an AI system that automatically generates portfolio sections.
+
+Technologies:
+JavaScript, GitHub Pages, AI APIs

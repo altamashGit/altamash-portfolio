@@ -1,0 +1,2 @@
+Title: Terraform Associate Certification
+Description: Mastered Infrastructure as Code (IaC) principles using Terraform. Learned to manage AWS resources, state files, and modules for scalable infrastructure.

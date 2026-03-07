@@ -1,0 +1,2 @@
+Title: Docker and Kubernetes: The Complete Guide
+Description: Deep dive into containerization with Docker and orchestration with Kubernetes. Learned about deployments, services, ingress, and persistent volumes.

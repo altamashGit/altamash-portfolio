@@ -1,0 +1,7 @@
+Project: Cloud Infrastructure Automation
+
+Description:
+Implemented a fully automated Terraform workflow for multi-region AWS deployments.
+
+Technologies:
+Terraform, AWS, GitHub Actions

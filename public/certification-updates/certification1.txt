@@ -1,0 +1,2 @@
+Title: AWS Certified Solutions Architect – Associate
+Description: Validates the ability to design and deploy secure and robust applications on AWS technologies. Covered VPC, EC2, S3, RDS, and IAM.
