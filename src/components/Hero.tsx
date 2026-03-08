@@ -73,7 +73,7 @@ const Hero = () => {
             {/* PROFILE PICTURE PLACEHOLDER */}
             {/* Change the src below to your actual profile picture URL */}
             <img 
-              src="https://picsum.photos/seed/dev/800/800" 
+              src="https://picsum.photos/seed/dev/800/800https://avatars.githubusercontent.com/u/170336719?v=4" 
               alt="Altamash Alam" 
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"
@@ -84,7 +84,7 @@ const Hero = () => {
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-xs font-mono text-emerald-400 mb-1">Current Role</p>
-                  <p className="text-sm font-semibold text-white">Cloud DevOps Associate</p>
+                  <p className="text-sm font-semibold text-white">Aspiring DevOps Engineer</p>
                 </div>
                 <div className="w-10 h-10 rounded-full bg-neutral-900 flex items-center justify-center border border-white/10">
                   <Cloud className="w-5 h-5 text-blue-400" />
