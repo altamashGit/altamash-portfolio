@@ -73,7 +73,7 @@ const Hero = () => {
             {/* PROFILE PICTURE PLACEHOLDER */}
             {/* Change the src below to your actual profile picture URL */}
             <img 
-              src="https://picsum.photos/seed/dev/800/800https://avatars.githubusercontent.com/u/170336719?v=4" 
+              src="https://avatars.githubusercontent.com/u/170336719?v=4" 
               alt="Altamash Alam" 
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"
