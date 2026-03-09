@@ -1,7 +1,7 @@
-Project: AI Portfolio Assistant
+Project: <a href="https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment.git"> Update HELLO PROJECT</a>
 
 Description:
-Created an AI system that automatically generates portfolio sections.
+THIS IS MY TEST PROJECT
 
 Technologies:
 JavaScript, GitHub Pages, AI APIs
