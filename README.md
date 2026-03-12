@@ -1,20 +1,96 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<h1 align="center">
+Hi 👋, I'm Altamash
+</h1>
 
-# Run and deploy your AI Studio app
+<h3 align="center">
+DevOps Engineer | Cloud Enthusiast | Automation Learner
+</h3>
 
-This contains everything you need to run your app locally.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Enthusiast;Linux+%7C+Docker+%7C+AWS;Automation+Lover;CI%2FCD+Pipeline+Builder" />
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/44770f73-2c34-404c-b8b2-d8d1b87c9328
+---
 
-## Run Locally
+# 🚀 About Me
 
-**Prerequisites:**  Node.js
+- 🌱 Currently learning **DevOps & Cloud Engineering**
+- ☁️ Preparing for **AWS Certified Solutions Architect**
+- 🐳 Learning **Docker & Containerization**
+- ⚙️ Practicing **CI/CD pipelines with GitHub Actions**
+- 🐧 Strong interest in **Linux & Automation**
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🐳 Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ⚙️ CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💻 OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧰 DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+# 🌐 Portfolio Website
+
+🚀 Live Portfolio  
+
+https://altamashGit.github.io/altamash-portfolio/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=altamashGit&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=altamashGit&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamashGit&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### DevOps Portfolio Website
+
+Modern developer portfolio hosted on **GitHub Pages**
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+- GitHub Actions
+
+---
+
+### Dockerized Python Application
+
+Containerized application using **Docker best practices**
+
+Concepts Used
+- Dockerfile
+- Multi-stage builds
+- Container networking
+
+---
+
+# 🔥 DevOps Workflow
+
+
