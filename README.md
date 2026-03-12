@@ -80,17 +80,6 @@ Modern developer portfolio hosted on **GitHub Pages**
 
 ---
 
-### Dockerized Python Application
-
-Containerized application using **Docker best practices**
-
-Concepts Used
-- Dockerfile
-- Multi-stage builds
-- Container networking
-
----
-
 # 🔥 DevOps Workflow
 
 
