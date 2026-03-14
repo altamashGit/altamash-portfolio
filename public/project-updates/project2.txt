@@ -1,4 +1,4 @@
-Project: Go Web App with Nginx Reverse Proxy - https://github.com/altamashGit/go-nginx-reverse-proxy-docker
+Project: Go Web App with Nginx Reverse Proxy
 
 Description:
 A Dockerized Go web application deployed behind an Nginx reverse proxy using Docker Compose. The project demonstrates production best practices such as Docker multi-stage builds and running containers with a non-root user for improved security.
