@@ -1,7 +1,7 @@
-Project: Cloud Infrastructure Automation
+Project: Go Web App with Nginx Reverse Proxy - https://github.com/altamashGit/go-nginx-reverse-proxy-docker
 
 Description:
-Implemented a fully automated Terraform workflow for multi-region AWS deployments.
+A Dockerized Go web application deployed behind an Nginx reverse proxy using Docker Compose. The project demonstrates production best practices such as Docker multi-stage builds and running containers with a non-root user for improved security.
 
 Technologies:
-Terraform, AWS, GitHub Actions
+Go, Nginx, Docker, Docker Compose, Multi-Stage Builds, Linux, DevOps
