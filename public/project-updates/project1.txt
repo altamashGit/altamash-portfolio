@@ -1,7 +1,7 @@
-Project: <a href="https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment.git"> Update HELLO PROJECT</a>
+Project: <a href="https://github.com/altamashGit/DevSecOps-Git-Action-CI-CD.git">DevSecOps CI/CD Pipeline</a>
 
 Description:
-THIS IS MY TEST PROJECT
+A production-grade DevSecOps CI/CD pipeline that automatically builds, tests, scans, and deploys a Flask application using GitHub Actions, Docker, and AWS EC2. The pipeline includes security best practices such as non-root Docker containers, vulnerability scanning with Trivy, GitHub Secrets for secure credential management, and a manual approval gate before production deployment.
 
 Technologies:
-JavaScript, GitHub Pages, AI APIs
+GitHub Actions, Docker, AWS EC2, Trivy Security Scanner, DevSecOps Practices, GitHub Secrets, CI/CD Automation, Linux
